@@ -842,7 +842,7 @@ GameObject:
   - component: {fileID: 1222869143}
   - component: {fileID: 1222869145}
   m_Layer: 0
-  m_Name: player
+  m_Name: player input
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1336,7 +1336,7 @@ GameObject:
   - component: {fileID: 1455951487}
   - component: {fileID: 1455951486}
   m_Layer: 0
-  m_Name: 'animator '
+  m_Name: player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
